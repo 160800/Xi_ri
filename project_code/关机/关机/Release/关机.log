@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/1/20 12:05:43。
+     1>项目“E:\c语言程序\关机\关机\关机.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs\vs1\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+       Link:
+         E:\vs\vs1\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c语言程序\关机\Release\关机.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c语言程序\关机\Release\关机.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c语言程序\关机\Release\关机.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+         已完成代码的生成
+         关机.vcxproj -> E:\c语言程序\关机\Release\关机.exe
+     1>已完成生成项目“E:\c语言程序\关机\关机\关机.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.48
