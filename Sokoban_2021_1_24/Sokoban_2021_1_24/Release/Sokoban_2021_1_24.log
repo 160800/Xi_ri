@@ -1,0 +1,27 @@
+﻿生成启动时间为 2021/1/24 21:15:30。
+     1>项目“E:\c语言学习vs\学习\Sokoban_2021_1_24\Sokoban_2021_1_24\Sokoban_2021_1_24.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs\vs1\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>game.c(100): warning C4047: “函数”:“char *”与“char [10][10]”的间接级别不同
+     1>game.c(100): warning C4024: “player”: 形参和实参 2 的类型不同
+     1>game.c(106): warning C4047: “函数”:“char *”与“char [10][10]”的间接级别不同
+     1>game.c(106): warning C4024: “victory”: 形参和实参 1 的类型不同
+       Link:
+         E:\vs\vs1\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c语言学习vs\学习\Sokoban_2021_1_24\Release\Sokoban_2021_1_24.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c语言学习vs\学习\Sokoban_2021_1_24\Release\Sokoban_2021_1_24.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c语言学习vs\学习\Sokoban_2021_1_24\Release\Sokoban_2021_1_24.lib" /MACHINE:X86 /SAFESEH Release\game.obj
+         Release\tast.obj
+         正在生成代码
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(320): warning C4715: “rule4”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(306): warning C4715: “rule3”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(355): warning C4715: “victory”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(292): warning C4715: “rule2”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(278): warning C4715: “rule1”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(263): warning C4715: “player”: 不是所有的控件路径都返回值
+     1>e:\c语言学习vs\学习\sokoban_2021_1_24\sokoban_2021_1_24\game.c(112): warning C4716: “game”: 必须返回一个值
+         已完成代码的生成
+         Sokoban_2021_1_24.vcxproj -> E:\c语言学习vs\学习\Sokoban_2021_1_24\Release\Sokoban_2021_1_24.exe
+     1>已完成生成项目“E:\c语言学习vs\学习\Sokoban_2021_1_24\Sokoban_2021_1_24\Sokoban_2021_1_24.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70
